@@ -23,11 +23,9 @@ To get started with Auto-Animation, follow these installation steps:
 1. Clone the repository:
 git clone https://github.com/MahdiBouafif/Auto-Animation.git
 
-You have to install python and put into to your environment variable and change line 61 in autoanimation/mainwindow.cpp
+2.Put this project in D:/animation
 
-2. Build the project using your preferred Qt development environment. Ensure that you have the necessary Qt dependencies installed.
-
-3. Once the build process is complete, you're ready to embark on your animated journey!
+3. You have to install python and put it into to your environment variable and change line 61 in autoanimation/mainwindow.cpp
 
 ## Usage
 
