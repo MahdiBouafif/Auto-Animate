@@ -1,0 +1,6 @@
+forced aligner :D:\animation\montreal-forced-aligner\bin\mfa_align "D:\animation\montreal-forced-aligner\test" "D:\animation\montreal-forced-aligner\dict\librispeech-lexicon.txt" english  "D:\animation\montreal-forced-aligner\result"
+textgrid to csv :python D:\animation\textgrid\textgrid.py -o D:\animation\textgrid\100.csv "D:\animation\montreal-forced-aligner\result\test\gg.TextGrid"
+csv to json : D:\animation\textgrid\parser.py -i D:\animation\textgrid\100.csv -o D:\animation\textgrid\output.json
+ffmpeg: D:\animation\ffmpeg\bin\ffmpeg.exe -y -r 25 -f image2 -s 1920x1080 -i D:\animation\scene\%d.png -i "C:\Users\mahdi\Downloads\gg (1).mp3" -vcodec libx264 -b 4M  -acodec copy D:\animation\OUTPUT.mp4
+
+

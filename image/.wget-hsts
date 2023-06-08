@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+66.media.tumblr.com	0	0	1593734501	31536000
+www.babybedding.com	0	1	1594037795	31536000
+fromthegreennotebook.com	0	0	1594037880	31536000
+upload.wikimedia.org	0	1	1594037764	106384710
+machinekoder.com	0	0	1593734340	15768000
+cdn-images-1.medium.com	0	1	1594037668	15552000

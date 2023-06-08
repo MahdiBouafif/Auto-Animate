@@ -1,0 +1,29 @@
+{beach}[angry]<Welcome celebration>Hello Everyone 
+[sad] <No>You probably saw this video and you think that i create it using Animation Software
+[excited] So No I haven't done anything to do this
+[notehere] So how could i do such video 
+[exclamationhappy] <I'm just here for the comments> So that's why i m here today
+[very_excited]<announcement> To announce my new Tool that did to me one hundred percent of this job 
+[demonstrathappy]<hard work is the most rewarding> So lately i spent weeks of planning and searching 
+[annoncing_happy] <artificial intelligence face> Until i created this machine
+[announcing]<weanimate> and i call it WeAnimate if you are curious <C++ Qt Python>i used C  QT and python script 
+[explaining_happy]So it works like <I recently found out magic wand> Magic
+[demonstrathappy] <voice wave>You only have to put your voice and the transcript
+[presentate]The transcript contains the words you say and background image path and the photo in the frame and the name of the asset you use 
+[demonstrathappy]<the future project> so now let's speak about the future of this project
+[annoncing_happy]I m sure there lot of people like me want to do animation  and they don't have the chance to try it because of the lack of skills or maybe they don't have the time to do it and they say
+                 maybe this our chance to blow up
+[sad]<private vs public> so sadly for now  i cannot neither make it public or paid
+[wondering]<carykh stick figure>because i m using carykh assets aka this yellow stick
+[question] <private sign> for now i will keep it private 
+[wondering]<Instagram> But i m thinking about creating Instagram profile for this purpose 
+[nice_happy]<Pensive Young Man Thinking>like talking about random topics scientific ones or different real life stories or cooperating with people who want to send their stories anonymously or publicly
+[notehere]<nothing sign> nothing is promised
+[worrying] <Embedded Basics - Classifying Software Bugs>this software is somehow buggy and have problems right now but 
+[excited] <Coming soon>soon we will have upgrade and improvements 
+[announcing]<upgrade meme>like adding Arabic language and making more fluid lip sync 
+[exclamationhappy]<Support>just if we get supported
+[demonstrathappy]<Ideas png> Anyway if you liked my ideas please like share and comment
+[exclamationhappy]<Suggestion> what are your think about it
+[annoncing_happy]<Thanks for watching> Well thanks for watching my video and see you soon
+

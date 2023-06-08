@@ -1,0 +1,6 @@
+bin\mfa_align "D:\montreal-forced-aligner\dict\Librispeech" "D:\montreal-forced-aligner\dict\librispeech-lexicon.txt" english  "D:\montreal-forced-aligner\result"
+<image>
+{background}
+[Happy]
+{Nature}<Happy face>[Demonstrat happy]Hey everyone [exclammation happy] And My name
+is Mahdi 
